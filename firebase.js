@@ -8,6 +8,3 @@ const firebaseConfig = {
 };
 
 firebase.initializeApp(firebaseConfig);
-
-
-// github - d4e579958006f02985aa247c654aadbbf3796eef
