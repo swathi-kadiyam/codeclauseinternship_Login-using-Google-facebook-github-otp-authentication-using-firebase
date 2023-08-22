@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
   <h2 align="center">CodeClause Internship Project Task - 2</h2>
