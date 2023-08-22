@@ -5,6 +5,6 @@
   This is Login page using Google, facebook, github, otp authentication using firebase, 
   <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="http://127.0.0.1:5500/index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
